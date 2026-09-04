@@ -1,0 +1,42 @@
+/* one Element but different selector in external1.css*/
+ .s3{
+    color:red;
+}
+#s4{
+    color:black;
+}
+p{
+    color:green;
+} 
+ /* one Element but same selector in external1.css(Element selector)*/
+ /* p{
+    color:red;
+}
+p{
+    color:black;
+}
+p{
+    color:blue;
+} */
+
+/* (Id selector)*/
+/* .s3{
+    color:red;
+}
+.s3{
+    color:black;
+}
+.s3{
+    color:green;
+} */
+
+/* (Class selector) */
+/* #s4{
+    color:red;
+}
+#s4{
+    color:black;
+}
+#s4{
+    color:pink;
+} */
