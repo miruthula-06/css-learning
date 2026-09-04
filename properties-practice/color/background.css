@@ -1,0 +1,52 @@
+/* body{
+    background-color: yellow;
+}  */
+ /* body{
+    background: black url(bird.jpg.jpg) no-repeat center;
+}  */
+/* body{
+    background-image: url(bird.jpg.jpg);
+    background-repeat: repeat-x;
+} */
+ /* body{
+    background-image: url(bird.jpg.jpg);
+    background-repeat: repeat-y;
+} */
+ /* body{
+    background-image: url(bird.jpg.jpg);
+    background-repeat: no-repeat;
+ } */
+  /* body{
+    background-image: url(bird.jpg.jpg);
+    background-size: cover;
+  } */
+   /* body{
+    width: 500px;
+    height: 300px;
+
+    background-image: url("bird.jpg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-attachment: scroll;
+} */
+   /* body{
+    width: 500px;
+    height: 300px;
+
+    background-image: url("bird.jpg.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+} */
+ /* opacity means transparent for values are 0.5 (half visible) ,1(full visible text), 0 (not visible) and also used product page(out of stock*/
+ button{
+    color: white;
+    background-color: blue;
+ }
+body{
+    color:white;
+    background-image: url("bird.jpg.jpg");
+    opacity: 1;
+}
