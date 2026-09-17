@@ -1,0 +1,22 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-size: 40px;
+}
+.box-model1{
+    background-color: rgb(255, 127, 127);
+    /* border: 1px solid black;  */
+    padding: 30px;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black; 
+    margin: 30px;
+}
+.box-model2{
+    background-color:blueviolet;
+    margin: 30px;
+    border: 1px solid black;
+    padding: 30px;
+    /* width: 100px;
+    height: 100px; */
+}
