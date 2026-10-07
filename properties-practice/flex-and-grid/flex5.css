@@ -1,0 +1,22 @@
+.college-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: lightgray;
+}
+.college-name {
+    font-size: 20px;
+    font-weight: bold;
+}
+.college-nav ul {
+    display: flex;
+    gap: 25px;
+    list-style: none;
+}
+.college-nav li {
+    font-size: 17px;
+}
+.college-nav button {
+    padding: 10px 15px;
+}
